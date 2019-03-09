@@ -1,4 +1,4 @@
-
+[![Build Status](https://agarcar.visualstudio.com/ContosoAir/_apis/build/status/Glycosylated.ContosoAir?branchName=master)](https://agarcar.visualstudio.com/ContosoAir/_build/latest?definitionId=1&branchName=master)
 
 
 # Microsoft.Github CI Demo
